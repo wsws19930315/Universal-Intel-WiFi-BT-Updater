@@ -1,4 +1,4 @@
-# System plików Windows
+# Windows system files
 Thumbs.db
 desktop.ini
 $RECYCLE.BIN/
@@ -12,17 +12,17 @@ Icon?
 *.psd1
 *.psm1
 
-# Pliki wykonywalne / instalatory
+# Executables / Installers
 *.exe
 
-# Logi i tymczasowe
+# Logs and temporaries
 *.log
 *.tmp
 *.bak
 *.swp
 *.old
 
-# IDE / edytory
+# IDE / Editors
 .vscode/
 *.code-workspace
 *.suo
@@ -30,7 +30,7 @@ Icon?
 *.userosscache
 *.sln.docstates
 
-# Node / npm (jeśli kiedykolwiek dodasz frontend)
+# Node / npm (if you ever add a frontend)
 node_modules/
 npm-debug.log
 yarn-error.log
