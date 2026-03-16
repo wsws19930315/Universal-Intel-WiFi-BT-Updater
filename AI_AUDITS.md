@@ -3,7 +3,7 @@
 This document provides a structured overview of security reviews conducted by AI language models on this project. These are not formal penetration tests or third-party audits — they are structured code and architecture reviews using security frameworks (OWASP, CWE, CVSS v3.1) applied by each model independently.
 Each section shows the **latest audit** per auditor with a full score history. Full reports are linked for reference.
 
-Average score (March 2026): 9.6/10 across 6 AI-reviewed audit cycles.
+Average score (March 2026): NA/10 across 6 AI-reviewed audit cycles.
 All reviewers confirmed the multi-layer verification architecture. Note: Claude (Anthropic) — the lowest-scoring and most critical reviewer — awarded 9.1/10.
 
 ---
