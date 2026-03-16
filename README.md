@@ -336,6 +336,7 @@ WiFiBTUpdater-2026.03.0002-Win10-Win11.exe (or later version)
 ```
 
 <a id="method-4-powershell-gallery"></a>
+### 8.4 Method 4: PowerShell Gallery
 
 Install from PowerShell Gallery (Run PowerShell as Administrator):
 ```powershell
