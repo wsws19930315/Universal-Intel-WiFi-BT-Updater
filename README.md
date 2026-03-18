@@ -149,7 +149,7 @@ For detailed documentation and guides, see:
 
 ### 📋 **Project Files**
 - `universal-intel-wifi-bt-driver-updater.ps1` — Main updater script
-- `WiFiBTUpdater-2026.03.0002-Win10-Win11.exe` — Self-extracting package (includes updated script)
+- `WiFi-BT-Updater-2026.03.0002-Win10-Win11.exe` — Self-extracting package (includes updated script)
 
 ---
 
@@ -320,7 +320,7 @@ This project has been reviewed by multiple AI systems using structured security 
 ### 8.1 Method 1: One-Click Execution
 ```batch
 # Download and run executable file as Administrator:
-WiFiBTUpdater-2026.03.0002-Win10-Win11.exe (or later version)
+WiFi-BT-Updater-2026.03.0002-Win10-Win11.exe (or later version)
 ```
 <a id="method-2-powershell-direct"></a>
 ### 8.2 Method 2: PowerShell Direct
@@ -458,7 +458,7 @@ universal-intel-wifi-bt-driver-updater
 ## 📥 **12. Download Options**
 <a id="option-1-sfx-executable-recommended"></a>
 ### 12.1 Option 1: SFX Executable (Recommended)
-- **File**: `WiFiBTUpdater-202x.xx.xxxx-Win10-Win11.exe`
+- **File**: `WiFi-BT-Updater-2026.03.0002-Win10-Win11.exe`
 - **Features**: Digital signature, one-click execution, automatic extraction and elevation
 - **For**: Most users — easiest method, no separate PowerShell step required
 <a id="option-2-script-direct"></a>
@@ -543,11 +543,11 @@ universal-intel-wifi-bt-driver-updater
 Each version (v202x.xx.xxxx) includes:
 <a id="primary-files"></a>
 ### 14.1 Primary Files
-- `WiFiBTUpdater-202x.xx.xxxx-Win10-Win11.exe` — Main executable (digitally signed SFX)
+- `WiFi-BT-Updater-2026.03.0002-Win10-Win11.exe` — Main executable (digitally signed SFX)
 - `universal-intel-wifi-bt-driver-updater.ps1` — PowerShell script
 <a id="verification-files"></a>
 ### 14.2 Verification Files  
-- `WiFiBTUpdater-202x.xx.xxxx-Win10-Win11.sha256` — EXE hash
+` — EXE hash
 - `universal-intel-wifi-bt-driver-updater-202x.xx.xxxx-ps1.sha256` — PS1 script hash
 <a id="documentation"></a>
 ### 14.3 Documentation
@@ -597,7 +597,7 @@ The FirstEver.tech certificate is self-signed. A commercial Code Signing certifi
 
 <a id="why-does-virustotal-show-detections"></a>
 ### 🛡️ 15.10 Why does VirusTotal show detections for the SFX executable?
-The SFX package (`WiFiBTUpdater-*.exe`) may show a small number of detections on VirusTotal. These are **known false positives** caused by the combination of a self-extracting archive and PowerShell execution, which some generic heuristic engines flag without analyzing the actual content.
+The SFX package (`WiFi-BT-Updater-202x.xx.xxxx-Win10-Win11.exe`) may show a small number of detections on VirusTotal. These are **known false positives** caused by the combination of a self-extracting archive and PowerShell execution, which some generic heuristic engines flag without analyzing the actual content.
 
 Common flagging engines include:
 - **Bkav Pro** — flags virtually all SFX packages that launch PowerShell; known for high false positive rate
