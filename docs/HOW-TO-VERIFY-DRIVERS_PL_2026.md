@@ -28,10 +28,10 @@ Wybierz jedną z metod:
 #### 3. Jeśli HWID nie znajduje się w nazwie, sprawdź właściwości Identyfikatory sprzętu
 - Kliknij urządzenie prawym przyciskiem → **Właściwości** → zakładka **Szczegóły**.
 - Z listy rozwijanej **Właściwość** wybierz **„Identyfikatory sprzętu”**.
-- Zobaczysz coś w rodzaju: `PCI\VEN_8086&DEV_51F1&CC_0280` dla Wi‑Fi lub `USB\VID_8086&PID_0035` dla Bluetooth.  
-  Część po **`DEV_`** (tutaj **`51F1`**) lub **`PID_`** jest najważniejszym identyfikatorem.
+- Zobaczysz coś w rodzaju: `PCI\VEN_8086&DEV_272B&CC_0280` dla Wi‑Fi lub `USB\VID_8087&PID_0036` dla Bluetooth.  
+  Część po **`DEV_`** (tutaj **`272B`**) lub **`PID_`** jest najważniejszym identyfikatorem (tutaj **`0036`**).
 
-<img width="441" height="290" alt="Okno właściwości z wybranymi Identyfikatorami sprzętu, pokazujące identyfikator PCI urządzenia" src="https://github.com/user-attachments/assets/bb9d2ac3-27c0-4af8-b469-0d40f853386d" />
+<img width="800" height="473" alt="image" src="https://github.com/user-attachments/assets/d92bd36b-5c5d-4310-bf06-23798f205515" />
 
 ---
 
