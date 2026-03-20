@@ -196,7 +196,7 @@ This project has been reviewed by multiple AI systems using structured security 
 | Copilot | **9.4** | Strong improvement recognition |
 | DeepSeek | **9.4** | Balanced methodology |
 | Gemini | **10.0**| Most generous reviewer |
-| Grok | **9.85**| Highest baseline |
+| Grok | **9.9**| Highest baseline |
 | **Average** | **9.5** | |
 
 *For full audit reports, methodology and detailed findings, see [AI_AUDITS.md](AI_AUDITS.md).*
