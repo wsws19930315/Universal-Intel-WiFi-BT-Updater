@@ -3,7 +3,7 @@
 
 [![Version](https://img.shields.io/badge/Version-2026.03.0002-red?style=flat-square)](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/releases)[![Windows](https://img.shields.io/badge/Windows-10%2F11-blue?style=flat-square&color=blueviolet)](https://www.microsoft.com/windows)[![PowerShell](https://img.shields.io/badge/PowerShell-5.0+-blueviolet?style=flat-square)](https://learn.microsoft.com/en-us/powershell/scripting/install/install-powershell-on-windows?view=powershell-7.5)[![DotNET](https://img.shields.io/badge/.NET-4.7.2+-blueviolet?style=flat-square)](https://dotnet.microsoft.com/en-us/download/dotnet-framework)[![Downloads](https://img.shields.io/github/downloads/FirstEverTech/Universal-Intel-WiFi-BT-Updater/total?style=flat-square&color=gold&label=Downloads)](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/releases)[![GitHub Stars](https://img.shields.io/github/stars/FirstEverTech/Universal-Intel-WiFi-BT-Updater?style=flat-square&color=gold&label=Stars)](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater)
 
-[![License](https://img.shields.io/badge/License-MIT-0056b3?style=flat-square)](LICENSE)[![PS Gallery Version](https://img.shields.io/powershellgallery/v/universal-intel-wifi-bt-driver-updater?style=flat-square&label=PowerShell+Gallery)](https://www.powershellgallery.com/packages/universal-intel-wifi-bt-driver-updater)[![AI_Audits](https://img.shields.io/badge/AI_Audits_Score-NA%2F10-0a8f08?style=flat-square)](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/AI_AUDITS.md)[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F95-008631?style=flat-square)](https://www.virustotal.com/gui/url/b42159f44bfe2b3a4b6dc746cc514baf1f265cb32bb4d85e053f289343aa9f64?nocache=1)[![Issues](https://img.shields.io/github/issues/FirstEverTech/Universal-Intel-WiFi-BT-Updater?style=flat-square&label=Issues)](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/issues)
+[![License](https://img.shields.io/badge/License-MIT-0056b3?style=flat-square)](LICENSE)[![PS Gallery Version](https://img.shields.io/powershellgallery/v/universal-intel-wifi-bt-driver-updater?style=flat-square&label=PowerShell+Gallery)](https://www.powershellgallery.com/packages/universal-intel-wifi-bt-driver-updater)[![AI_Audits](https://img.shields.io/badge/AI_Audits_Score-9.5%2F10-0a8f08?style=flat-square)](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/blob/main/AI_AUDITS.md)[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F95-008631?style=flat-square)](https://www.virustotal.com/gui/url/b42159f44bfe2b3a4b6dc746cc514baf1f265cb32bb4d85e053f289343aa9f64?nocache=1)[![Issues](https://img.shields.io/github/issues/FirstEverTech/Universal-Intel-WiFi-BT-Updater?style=flat-square&label=Issues)](https://github.com/FirstEverTech/Universal-Intel-WiFi-BT-Updater/issues)
 
 ## 📡 Automate Your Intel Wi-Fi and Bluetooth Updates
 **Universal Intel Wi-Fi and Bluetooth Drivers Updater** is an advanced, security-focused tool that automatically detects your Intel wireless hardware and installs the latest official **Wi-Fi and Bluetooth drivers** with enterprise-grade safety measures.
@@ -191,13 +191,13 @@ This project has been reviewed by multiple AI systems using structured security 
 
 | Auditor | Mar 2026 | Notes |
 |---------|----------|-------|
-| ChatGPT | **N/A** | Consistently high; tends toward optimistic scoring |
-| Claude | **N/A** | Most critical reviewer |
-| Copilot | **N/A** | Strong improvement recognition |
-| DeepSeek | **N/A** | Balanced methodology |
-| Gemini | **N/A** | Most generous reviewer |
-| Grok | **N/A** | Highest baseline |
-| **Average** | **N/A** | |
+| ChatGPT | **9.5** | Consistently high; tends toward optimistic scoring |
+| Claude | **8.7** | Most critical reviewer |
+| Copilot | **9.4** | Strong improvement recognition |
+| DeepSeek | **9.4** | Balanced methodology |
+| Gemini | **10.0**| Most generous reviewer |
+| Grok | **9.85**| Highest baseline |
+| **Average** | **9.5** | |
 
 *For full audit reports, methodology and detailed findings, see [AI_AUDITS.md](AI_AUDITS.md).*
 
@@ -509,12 +509,12 @@ universal-intel-wifi-bt-driver-updater
 
 `docs/audit-reports-2026-03-16/` - AI audit reports
 
-  - [2026-03-16-CHATGPT-AUDIT.md](docs/audit-reports-2026-03-16/2026-03-16-CHATGPT-AUDIT.md)
-  - [2026-03-16-CLAUDE-AUDIT.md](docs/audit-reports-2026-03-16/2026-03-16-CLAUDE-AUDIT.md)
-  - [2026-03-16-COPILOT-AUDIT.md](docs/audit-reports-2026-03-16/2026-03-16-COPILOT-AUDIT.md)
-  - [2026-03-16-DEEPSEEK-AUDIT.md](docs/audit-reports-2026-03-16/2026-03-16-DEEPSEEK-AUDIT.md)
-  - [2026-03-16-GEMINI-AUDIT.md](docs/audit-reports-2026-03-16/2026-03-16-GEMINI-AUDIT.md)
-  - [2026-03-16-GROK-AUDIT.md](docs/audit-reports-2026-03-16/2026-03-16-GROK-AUDIT.md)
+  - [2026-03-19-CHATGPT-AUDIT.md](docs/audit-reports-2026-03-19/2026-03-19-CHATGPT-AUDIT.md)
+  - [2026-03-19-CLAUDE-AUDIT.md](docs/audit-reports-2026-03-19/2026-03-19-CLAUDE-AUDIT.md)
+  - [2026-03-19-COPILOT-AUDIT.md](docs/audit-reports-2026-03-19/2026-03-19-COPILOT-AUDIT.md)
+  - [2026-03-19-DEEPSEEK-AUDIT.md](docs/audit-reports-2026-03-19/2026-03-19-DEEPSEEK-AUDIT.md)
+  - [2026-03-19-GEMINI-AUDIT.md](docs/audit-reports-2026-03-19/2026-03-19-GEMINI-AUDIT.md)
+  - [2026-03-19-GROK-AUDIT.md](docs/audit-reports-2026-03-19/2026-03-19-GROK-AUDIT.md)
 
 `assets/` - Screenshots
 
