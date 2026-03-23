@@ -522,14 +522,14 @@ universal-intel-wifi-bt-driver-updater
 - [POWERSHELL-GALLERY-PUBLISHING_EN_2026.md](docs/POWERSHELL-GALLERY-PUBLISHING_EN_2026.md) - PowerShell Gallery Publishing Guide (English)
 - [POWERSHELL-GALLERY-PUBLISHING_PL_2026.md](docs/POWERSHELL-GALLERY-PUBLISHING_PL_2026.md) - PowerShell Gallery Publishing Guide (Polish)
 
-`docs/audit-reports/2026-03-21/` - AI audit reports
+`docs/audit-reports/2026-03-23/` - AI audit reports
 
-  - [2026-03-21-CHATGPT-AUDIT.md](docs/audit-reports-2026-03-21/2026-03-21-CHATGPT-AUDIT.md)
-  - [2026-03-21-CLAUDE-AUDIT.md](docs/audit-reports-2026-03-21/2026-03-21-CLAUDE-AUDIT.md)
-  - [2026-03-21-COPILOT-AUDIT.md](docs/audit-reports-2026-03-21/2026-03-21-COPILOT-AUDIT.md)
-  - [2026-03-21-DEEPSEEK-AUDIT.md](docs/audit-reports-2026-03-21/2026-03-21-DEEPSEEK-AUDIT.md)
-  - [2026-03-21-GEMINI-AUDIT.md](docs/audit-reports-2026-03-21/2026-03-21-GEMINI-AUDIT.md)
-  - [2026-03-21-GROK-AUDIT.md](docs/audit-reports-2026-03-21/2026-03-21-GROK-AUDIT.md)  
+  - [2026-03-23-CHATGPT-AUDIT.md](docs/audit-reports-2026-03-23/2026-03-23-CHATGPT-AUDIT.md)
+  - [2026-03-23-CLAUDE-AUDIT.md](docs/audit-reports-2026-03-23/2026-03-23-CLAUDE-AUDIT.md)
+  - [2026-03-23-COPILOT-AUDIT.md](docs/audit-reports-2026-03-23/2026-03-23-COPILOT-AUDIT.md)
+  - [2026-03-23-DEEPSEEK-AUDIT.md](docs/audit-reports-2026-03-23/2026-03-23-DEEPSEEK-AUDIT.md)
+  - [2026-03-23-GEMINI-AUDIT.md](docs/audit-reports-2026-03-23/2026-03-23-GEMINI-AUDIT.md)
+  - [2026-03-23-GROK-AUDIT.md](docs/audit-reports-2026-03-23/2026-03-23-GROK-AUDIT.md)  
 
 `docs/audit-reports/2026-03-19/` - AI audit reports (archive)
 
