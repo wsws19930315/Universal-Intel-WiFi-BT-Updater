@@ -194,19 +194,7 @@ For detailed documentation and guides, see:
 <a id="ai-audit-reports"></a>
 ## 🔍 **3. AI Audit Reports**
 
-This project has been reviewed by multiple AI systems using structured security frameworks (OWASP, CWE, CVSS v3.1). These are code and architecture reviews, not formal penetration tests. The script's core security architecture is directly inherited from Universal Intel Chipset Device Updater — which has been through three independent audit cycles with an average score of 9.6/10.
-
-## Score History at a Glance
-
-| Auditor | Mar 2026 | Notes |
-|---------|----------|-------|
-| ChatGPT | **9.5** | Consistently high; tends toward optimistic scoring |
-| Claude | **8.9** | Most critical reviewer |
-| Copilot | **9.4** | Strong improvement recognition |
-| DeepSeek | **9.4** | Balanced methodology |
-| Gemini | **10.0**| Most generous reviewer |
-| Grok | **9.9**| Highest baseline |
-| **Average** | **9.5** | |
+This project has been reviewed by multiple AI systems using structured security frameworks (OWASP, CWE, CVSS v3.1). These are code and architecture reviews, not formal penetration tests. The script's core security architecture is directly inherited from Universal Intel Chipset Device Updater — which has been through three independent audit cycles with an average score of 9.5/10.
 
 ## Score History at a Glance
 
