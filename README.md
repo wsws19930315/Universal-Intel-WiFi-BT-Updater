@@ -193,7 +193,7 @@ For detailed documentation and guides, see:
 <a id="ai-audit-reports"></a>
 ## 🔍 **3. AI Audit Reports**
 
-This project has been reviewed by multiple AI systems using structured security frameworks (OWASP, CWE, CVSS v3.1). These are code and architecture reviews, not formal penetration tests. The script's core security architecture is directly inherited from Universal Intel Chipset Device Updater — which has been through three independent audit cycles with an average score of 9.5/10.
+This project has been reviewed by multiple AI systems using structured security frameworks (OWASP, CWE, CVSS v3.1). These are code and architecture reviews, not formal penetration tests. The script's core security architecture is directly inherited from Universal Intel Chipset Device Updater — which has been through three independent audit cycles with an average score of 9.69/10.
 
 ## Score History at a Glance
 
