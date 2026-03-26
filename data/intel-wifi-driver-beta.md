@@ -1,4 +1,4 @@
-# Intel Wi-Fi Drivers Dev
+# Intel Wi-Fi Drivers Beta
 
 Latest Version = 24.30.1.1  
 Release Date = 03/03/2026
